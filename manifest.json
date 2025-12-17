@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro Timer",
+  "description": "A lavender-themed Pomodoro timer with an adorable octopus mascot, confetti celebrations, and detailed statistics",
+  "version": "1.0.0",
+  "icons": {
+    "16": "public/icons/icon16.svg",
+    "32": "public/icons/icon32.svg",
+    "48": "public/icons/icon48.svg",
+    "128": "public/icons/icon128.svg"
+  },
+  "action": {
+    "default_popup": "src/popup/index.html",
+    "default_icon": {
+      "16": "public/icons/icon16.svg",
+      "32": "public/icons/icon32.svg",
+      "48": "public/icons/icon48.svg",
+      "128": "public/icons/icon128.svg"
+    },
+    "default_title": "Pomodoro Timer"
+  },
+  "background": {
+    "service_worker": "src/background/service-worker.ts",
+    "type": "module"
+  },
+  "permissions": [
+    "storage",
+    "alarms",
+    "notifications"
+  ]
+}
