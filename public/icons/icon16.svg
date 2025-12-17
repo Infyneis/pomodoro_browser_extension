@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <defs>
+    <linearGradient id="octo16" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C4B5FD"/>
+      <stop offset="100%" style="stop-color:#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Head -->
+  <ellipse cx="8" cy="6" rx="5" ry="4" fill="url(#octo16)"/>
+  <!-- Eyes -->
+  <circle cx="6" cy="5.5" r="1" fill="white"/>
+  <circle cx="10" cy="5.5" r="1" fill="white"/>
+  <circle cx="6.3" cy="5.5" r="0.5" fill="#1a1a2e"/>
+  <circle cx="10.3" cy="5.5" r="0.5" fill="#1a1a2e"/>
+  <!-- Tentacles -->
+  <path d="M3 9 Q2 12 3 14" stroke="#9B7EDE" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M5 9 Q4 13 5.5 15" stroke="#9B7EDE" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M8 10 Q8 13 8 15" stroke="#9B7EDE" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M11 9 Q12 13 10.5 15" stroke="#9B7EDE" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <path d="M13 9 Q14 12 13 14" stroke="#9B7EDE" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+</svg>
