@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🐙 Pomodoro Browser Extension</h1>
-<h3 align="center">Focus better with your octopus buddy <code>#5/365 - Year Coding Challenge</code></h3>
+<h3 align="center">Focus better with your octopus buddy</h3>
 
 <p align="center">
   <em>A lavender-themed Pomodoro timer with an adorable octopus mascot</em>
@@ -33,7 +33,6 @@
 A beautiful, feature-rich Pomodoro timer browser extension with **confetti celebrations**, **sound notifications**, and **detailed statistics**. Built with React and designed with a calming lavender theme featuring an adorable octopus mascot.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Year_Coding_Challenge-Project_%235-9B7EDE?style=for-the-badge" alt="Year Coding Challenge" />
   <img src="https://img.shields.io/badge/📅_Completed-December_16,_2024-6EE7B7?style=for-the-badge" alt="Completed" />
   <img src="https://img.shields.io/badge/🐙_Mascot-Octopus-C4B5FD?style=for-the-badge" alt="Octopus" />
 </p>
